@@ -8,6 +8,10 @@ header{
     padding: 10px 100px 0px 100px;
     
 }
+section{
+    padding: 100px;
+    background: #FFFFFF;
+}
 .logo img{
 
 width: 198.07px;
@@ -72,3 +76,34 @@ height: 59px;
     color:#6C6B6B ;
 }
 
+/*-- Style Analytics Section --*/
+.analytic-section img{
+    width: 66px;
+    height: 85px;
+   
+   
+} 
+
+.analytics{
+    padding: 50px;
+   background: #F8FFFB;
+   height: 270px;
+   background: #F8FFFB;
+   border-radius: 10px;
+
+}
+
+.analytics h6{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;  
+}
+
+.analytics:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+}
