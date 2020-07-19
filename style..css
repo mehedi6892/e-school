@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/*-- Style Header Section --*/
+header{
+    background-color: #F0FFF0;
+    padding: 10px 100px 0px 100px;
+    
+}
+.logo img{
+
+width: 198.07px;
+height: 59px;
+
+}
+.nav-item-list{
+    
+}
+.list-item  a{
+  color: #000000;
+  padding-top: 18px;
+}
+
+.all-button{
+    background: #21B573;
+    border-radius: 33px;  
+    font-family: 'Roboto', sans-serif;
+    width: 153px;
+    height: 43px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.sing-in-button{ 
+    background: #21B573;
+    border-radius: 33px;  
+    font-family: 'Roboto', sans-serif;
+    width: 104px;
+    height: 43px;
+}
+
+.header-content{
+    padding: 80px 0px;
+   
+}
+.header-content small{
+    color: #FD511A;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header-content h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    padding: 5px 0px;
+}
+.header-content span{
+    color:#7BD5A9 ;
+    
+}
+
+.header-content p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color:#6C6B6B ;
+}
+
